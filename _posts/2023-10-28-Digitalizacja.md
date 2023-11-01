@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Digitalizacja"
-categories: [ Archiwizacja, Co Zrobi&#263;? ]
+categories: [ Archiwizacja, Co Zrobić? ]
 image: assets/images/digitalizacja.png
 ---
 Co to takiego? Najprościej - utrwalenie materialnych zdjęć na komputerze w wersji cyfrowej.

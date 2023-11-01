@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Indeksowanie"
-categories: [ Archiwizacja, Co zrobi&#263;? ]
+categories: [ Archiwizacja, Co zrobić? ]
 image: assets/images/indeks.png
 ---
 

@@ -12,14 +12,14 @@ locale: pl
 lang: pl
 feed_items: 10
 feed_update_period: daily
-feed_update_frequency: 1
+feed_update_frequency: 3
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 ganalytics: UA-113961478-1
 
 # Social

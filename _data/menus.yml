@@ -1,0 +1,23 @@
+
+topmenu:
+
+- title: Strona G&#322;&#243;wna
+  url: ""
+
+- title: O nas
+  url: "about/"
+
+- title: Kontakt
+  url: "contact/"
+
+
+footermenu:
+
+- title: Strona G&#322;&#243;wna
+  url: ""
+
+- title: Polityka Prywatno&#347;ci
+  url: "privacy-policy/"
+
+- title: Kontakt
+  url: "contact/"

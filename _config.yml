@@ -1,0 +1,36 @@
+﻿title: "&#379;ywe Archiwa"
+email: zywearchiwa@gmail.com
+timezone: Etc/GMT+2
+baseurl: ''
+permalink: "/:title/"
+logo: 'assets/images/LogoŻyweArchiwa.png'
+favicon: 'assets/images/LogoŻyweArchiwa.jpg'
+author: Alex
+paginate: 30
+disqus: ''
+locale: pl
+lang: pl
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Social
+social:
+  instagram: https://www.instagram.com/zywe_archiwa/
+  facebook: https://www.facebook.com/profile.php?id=100089221111236
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

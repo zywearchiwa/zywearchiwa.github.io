@@ -1,9 +1,10 @@
 ﻿---
 layout: post
 title:  "Digitalizacja"
-categories: [ Archiwizacja, Co Zrobić? ]
+categories: [ Archiwizacja, O nas ]
 image: assets/images/digitalizacja.png
 ---
+
 Co to takiego? Najprościej - utrwalenie materialnych zdjęć na komputerze w wersji cyfrowej.
 
 ![🖨️](https://static.xx.fbcdn.net/images/emoji.php/v9/t4/1/16/1f5a8.png) Ten krok staje się bardzo prosty jeżeli posiadamy w domu własny skaner

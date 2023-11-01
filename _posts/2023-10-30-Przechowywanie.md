@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Przechowywanie"
-categories: [ Archiwizacja, Co Zrobić? ]
+categories: [ Archiwizacja, O nas ]
 image: assets/images/przechowy.png
 ---
 

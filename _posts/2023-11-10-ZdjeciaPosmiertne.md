@@ -18,7 +18,7 @@ Na zdjęciach kolejno:
 ## 2. Gertruda Moszny, była zakonnicą stąd można zauważyć welon na głowie jako symbol dziewicy, zm. 1957
 ![Gertruda Moszny](/assets/images/posmiertne/2.png)
 ## 3. Karol Moszny, zm. 1950
-![Karol Moszny, zm. 1950(/assets/images/posmiertne/3.png)
+![Karol Moszny, zm. 1950](/assets/images/posmiertne/3.png)
 ## 4. Aniela zmarła w 1939 przeżywszy 2 miesiące, jest to jedyne jej zdjęcie jakie się zachowało
 ![ Aniela zmarła w 1939](/assets/images/posmiertne/4.png)
 ## 5. Józef Śnietka, zmarły śmiercią tragiczną w stoczni, stąd widoczne na zdjęciu bandaże na głowie, 1976

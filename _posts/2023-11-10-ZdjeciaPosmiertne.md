@@ -2,7 +2,7 @@
 layout: post
 title:  "Zdjęcia Pośmiertne"
 categories: [ Archiwizacja ]
-image: assets/images/posmiertne.jpg
+image: assets/images/posmiertne/posmiertne.jpg
 ---
 
 Pozostając w tematyce Wszystkich Świętych i pamięci o naszych bliskich zmarłych zwracamy uwagę na zdjęcia pośmiertne, dawny zwyczaj, który dziś ciężko już sobie wyobrazić

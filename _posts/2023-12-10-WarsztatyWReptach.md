@@ -17,9 +17,9 @@ Serdecznie dziękujemy wszystkim uczestnikom za udział w naszych warsztatach i 
 
 ![nagrobek](/assets/images/warsztaty/3.png){:width="800px"}
 
-![nagrobek](/assets/images/warsztaty/2.JPG){:width="800px"}
+![nagrobek](/assets/images/warsztaty/2.jpg){:width="800px"}
 
-![nagrobek](/assets/images/warsztaty/1.png){:width="397px"} ![nagrobek](/assets/images/warsztaty/6.JPG){:width="398px"}
+![nagrobek](/assets/images/warsztaty/1.png){:width="397px"} ![nagrobek](/assets/images/warsztaty/6.jpg){:width="398px"}
 
 ![nagrobek](/assets/images/warsztaty/4.png){:width="800px"}
 

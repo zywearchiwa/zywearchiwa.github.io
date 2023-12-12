@@ -10,15 +10,26 @@ Te skromne znaki czasu przypominają nam o korzeniach tego miejsca, o dawnych po
 Z każdym zniszczonym kamieniem, każdym śladem czasu, historia tych mogił wzbogaca się o kolejny rozdział, utrwalając pamięć o tych, którzy odeszli przed nami. 
 Groby te, choć skrywają w sobie smutek i tęsknotę, stanowią jednocześnie niezatarty ślad historii, nieśmiertelne świadectwo przemijania
 
-![nagrobek](/assets/images/nagrobki/1.jpg)
-![nagrobek](/assets/images/nagrobki/2.jpg)
-![nagrobek](/assets/images/nagrobki/3.jpg)
-![nagrobek](/assets/images/nagrobki/4.jpg)
-![nagrobek](/assets/images/nagrobki/5.jpg)
-![nagrobek](/assets/images/nagrobki/6.jpg)
-![nagrobek](/assets/images/nagrobki/7.jpg)
-![nagrobek](/assets/images/nagrobki/8.jpg)
-![nagrobek](/assets/images/nagrobki/9.jpg)
-![nagrobek](/assets/images/nagrobki/10.jpg)
-![nagrobek](/assets/images/nagrobki/11.jpg)
+![nagrobek](/assets/images/nagrobki/1.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/2.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/3.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/4.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/5.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/6.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/7.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/8.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/9.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/10.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/nagrobki/11.jpg){:height="600px" width="600px"}
+
 

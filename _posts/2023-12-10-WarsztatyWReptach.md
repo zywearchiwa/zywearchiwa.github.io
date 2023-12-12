@@ -10,11 +10,17 @@ Pokazaliśmy też w skrócie jakie możliwości dają bezpłatne programy komput
 Szczególnie miło było nam widzieć jak wywiązuje się dyskusja o zdjęciach, które prezentowaliśmy i jak budzą się wspomnienia i historie z nimi związane
 Serdecznie dziękujemy wszystkim uczestnikom za udział w naszych warsztatach i za liczne przybycie. Niezwykle miło było nam poznać osoby żywo zainteresowane lokalną historią i jej zachowaniem 💛
 
-![nagrobek](/assets/images/warsztaty/1.jpg)
-![nagrobek](/assets/images/warsztaty/2.jpg)
-![nagrobek](/assets/images/warsztaty/3.jpg)
-![nagrobek](/assets/images/warsztaty/4.jpg)
-![nagrobek](/assets/images/warsztaty/5.jpg)
-![nagrobek](/assets/images/warsztaty/6.jpg)
+![nagrobek](/assets/images/warsztaty/1.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/warsztaty/2.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/warsztaty/3.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/warsztaty/4.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/warsztaty/5.jpg){:height="600px" width="600px"}
+
+![nagrobek](/assets/images/warsztaty/6.jpg){:height="600px" width="600px"}
+
 
 

@@ -55,13 +55,11 @@ images.forEach(image => {
         while (lightbox.firstChild) {
             lightbox.removeChild(lightbox.firstChild);
         }
-        img.style.setProperty('cursor', 'not-allowed');
         lightbox.appendChild(img);
         lightbox.style.setProperty('cursor', 'zoom-out');
     });
 });
 
 lightbox.addEventListener('click', e => {
-    if (e.target !== e.currentTarget) return;
     lightbox.classList.remove('active');
 });

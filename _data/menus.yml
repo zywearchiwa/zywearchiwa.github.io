@@ -1,14 +1,14 @@
 
 topmenu:
 
-- title: Strona G&#322;&#243;wna
+- title: Dzia&#322;alno&#347;&#263;
   url: ""
-
 - title: O nas
   url: "about/"
 
 - title: Kontakt
   url: "contact/"
+
 
 
 footermenu:

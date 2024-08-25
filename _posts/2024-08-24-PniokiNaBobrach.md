@@ -7,8 +7,12 @@ image: assets/images/bobry.jpg
 <p style="text-align: center;font-size:1.2em; color:#ED9603">Pnioki, Krzoki i Ptoki na Bobrach:</p>
 <p style="text-align: center;font-size:2em;">Zachować Dziedzictwo Bobrownik Śląskich i Piekar Rudnych</p>
 
-![zdjecie](/assets/images/bobry/Bobrownikislaskie2.png){:width="150px"}
-![zdjecie](/assets/images/bobry/POL_Tarnowskie_Góry_COA_(vect).png){:width="142px"}
+
+
+<p align="middle">
+<img src="/assets/images/bobry/Bobrownikislaskie2.png" alt="Picture" width="150" >
+<img src="/assets/images/bobry/POL_Tarnowskie_Góry_COA_(vect).png" alt="Picture" width="144" >
+</p>
 
 <span style="font-size:2em;">**Na czym polega projekt?**</span>
 

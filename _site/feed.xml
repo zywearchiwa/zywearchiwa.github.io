@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pl" /><updated>2024-08-24T17:24:41-02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Żywe Archiwa</title><author><name>Alex</name></author><entry><title type="html">Pnioki, Krzoki i Ptoki na Bobrach</title><link href="http://localhost:4000/Dlaczego/" rel="alternate" type="text/html" title="Pnioki, Krzoki i Ptoki na Bobrach" /><published>2024-08-24T00:00:00-02:00</published><updated>2024-08-24T00:00:00-02:00</updated><id>http://localhost:4000/Dlaczego</id><content type="html" xml:base="http://localhost:4000/Dlaczego/"><![CDATA[<p style="text-align: center;font-size:1.2em; color:#ED9603">Pnioki, Krzoki i Ptoki na Bobrach:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pl" /><updated>2024-08-25T09:36:04-02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Żywe Archiwa</title><author><name>Alex</name></author><entry><title type="html">Pnioki, Krzoki i Ptoki na Bobrach</title><link href="http://localhost:4000/PniokiNaBobrach/" rel="alternate" type="text/html" title="Pnioki, Krzoki i Ptoki na Bobrach" /><published>2024-08-24T00:00:00-02:00</published><updated>2024-08-24T00:00:00-02:00</updated><id>http://localhost:4000/PniokiNaBobrach</id><content type="html" xml:base="http://localhost:4000/PniokiNaBobrach/"><![CDATA[<p style="text-align: center;font-size:1.2em; color:#ED9603">Pnioki, Krzoki i Ptoki na Bobrach:</p>
 <p style="text-align: center;font-size:2em;">Zachować Dziedzictwo Bobrownik Śląskich i Piekar Rudnych</p>
 
-<p><img src="/assets/images/bobry/Bobrownikislaskie2.png" alt="zdjecie" width="150px" />
-<img src="/assets/images/bobry/POL_Tarnowskie_Góry_COA_(vect).png" alt="zdjecie" width="142px" /></p>
+<p align="middle">
+<img src="/assets/images/bobry/Bobrownikislaskie2.png" alt="Picture" width="150" />
+<img src="/assets/images/bobry/POL_Tarnowskie_Góry_COA_(vect).png" alt="Picture" width="144" />
+</p>
 
 <p><span style="font-size:2em;"><strong>Na czym polega projekt?</strong></span></p>
 
